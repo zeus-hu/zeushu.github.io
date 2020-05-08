@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://zeushu.github.io</id>
+    <id>http://zeushu.com</id>
     <title>zeushu</title>
-    <updated>2020-05-08T16:52:49.965Z</updated>
+    <updated>2020-05-08T16:59:12.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://zeushu.github.io"/>
-    <link rel="self" href="https://zeushu.github.io/atom.xml"/>
+    <link rel="alternate" href="http://zeushu.com"/>
+    <link rel="self" href="http://zeushu.com/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://zeushu.github.io/images/avatar.png</logo>
-    <icon>https://zeushu.github.io/favicon.ico</icon>
+    <logo>http://zeushu.com/images/avatar.png</logo>
+    <icon>http://zeushu.com/favicon.ico</icon>
     <rights>All rights reserved 2020, zeushu</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://zeushu.github.io/post/hello-gridea/</id>
-        <link href="https://zeushu.github.io/post/hello-gridea/">
+        <id>http://zeushu.com/post/hello-gridea/</id>
+        <link href="http://zeushu.com/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
